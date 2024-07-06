@@ -1,0 +1,9 @@
+.admin-container{
+    margin-top: 1.1rem;
+}
+.error-title {
+    color: red;
+    padding: 10px;
+    margin-bottom: 20px !important;
+    background-color: rgb(228, 186, 186);
+}

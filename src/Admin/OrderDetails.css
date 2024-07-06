@@ -1,0 +1,50 @@
+.order-details {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.order-details-header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #e5e5e5;
+    padding: 20px;
+}
+
+.header-right-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
+}
+.order-details-footer {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100% !important;
+  border: 1px solid #e5e5e5;
+}
+
+.order-details-total {
+    display: flex;
+    justify-content: flex-end;
+    width: 100% !important;
+}
+
+.subtotal-title, .charge-title {
+  font-size: 14px;
+  margin-right: 10px;
+}
+.total-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+    margin-right: 10px;
+}
+.total-amount {
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+}
+.order-details-body {
+    border:  1px solid #e5e5e5 !important;
+    padding: 20px;
+}

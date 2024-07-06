@@ -1,0 +1,21 @@
+.lni-user {
+    padding-right: .5rem;
+}
+.signout {
+    color: white;
+    cursor: pointer;
+}
+
+.signout:hover {
+    color: rgb(50, 80, 0);
+}
+
+.logout-link {
+    cursor: pointer;
+}
+.logout-link:hover {
+    color: #d6b912;
+}
+.cart-wish {
+    margin-right: 1rem;
+}
